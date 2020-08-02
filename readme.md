@@ -8,7 +8,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 
 ## The posts/prompts
 
-* [Beginning](01-beginning.md)
+* [Beginning](01-beginning-DO.md)
 * Change
 * Thread   
 * Vision
