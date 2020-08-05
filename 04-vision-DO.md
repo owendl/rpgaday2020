@@ -19,3 +19,5 @@ But I can't help but comparing roleplaying games to board games. Board games see
 Does that mean RPGs by their very nature hold themselves back? I don't have a clear vision for where our game is going. I worry a little that the mainstreaming of D&D will lead to just a bunch of people looking to punch that square on their geek bingo. But does its ubiquity mean that we have a better chance of capturing more peopel that grow a passion for roleplaying? I hope so. I want more people around the table ready jam in our own special way. Because when it is good there is nothing like it. 
 
 Just like sex. (See, I said I would get back to the sex part)
+
+#rpgaday2020

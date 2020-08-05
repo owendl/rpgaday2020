@@ -31,3 +31,5 @@ I returned to that half-elf ranger a couple of more times in other systems. He m
 As were sittig around the table after the session I realized that I had not taken into account my damage reducing armor in each of the attacks that led to my death. I hadn't been dropped to zero, I had 3 HP remaining. The math of the game said I hadn't died.
 
 I didn't say anything.
+
+#rpgaday2020

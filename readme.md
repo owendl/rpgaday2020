@@ -11,7 +11,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Beginning](01-beginning-DO.md)
 * [Change](02-change-DO.md)
 * [Thread](03-thread-DO.md)   
-* Vision
+* [Vision](04-vision-DO.md)
 * Tribute
 * Forest
 * Couple

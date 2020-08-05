@@ -33,3 +33,5 @@ Leather pouch? Good odds they own a kilt.
 Used Royal Crown dice bag? Either underage or already a parent.
 
 Oh and if they don't have a dice bag and still carry their dice around in that hard plastic prism? New to the hobby, be kind to them. And get them a proper dice bag.
+
+#rpgaday2020
