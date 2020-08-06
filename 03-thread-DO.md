@@ -18,7 +18,7 @@ Something for the neckline...
 
 But the one item no gamer can go out on the town without...
 
-![image info](./images/dice_bag.jpg "The original fidget spinner")
+![image info](./images/dice_bag.jpg "Not to be confused with a ren fair coin purse")
 
 ... the dice bag.
 
