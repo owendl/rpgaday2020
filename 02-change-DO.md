@@ -1,6 +1,6 @@
 # Change
 
-One summer in high school I was a lifeguard at a local golf club pool and a sweet job it was. Above minimum wage pay, half-off at the snack bar and best of all, almost no one ever came to the pool. So I got paid to sit in the shade and read the Dungeons & Dragons 3rd Ed. Player's Handbook. The small morsels of synergy bonuses and rules lawuering I tasted with WotC d20 Star Wars became a Tony Montana gorge in D&D.
+One summer in high school I was a lifeguard at a local golf club pool and a sweet job it was. Above minimum wage pay, half-off at the snack bar and best of all, almost no one ever came to the pool. So I got paid to sit in the shade and read the Dungeons & Dragons 3rd Ed. Player's Handbook. The small morsels of synergy bonuses and rules lawyering I tasted with WotC d20 Star Wars became a Tony Montana gorge in D&D.
 
 I finished high school as my regular group's defense attorney to Dooley's Chief Prosecutor (mostly because he was more often the Dungeon Master). I got all of the floppy books to find optimum weapon and class combinations. Every level of progression was mapped out before I rolled my first check. The game centered around maximizing numbers: XP, attack bonus, damage, gold...
 

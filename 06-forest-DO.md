@@ -27,3 +27,5 @@ As a non-LARPer I could maintain a posture of detatchment from the game but I th
 I started to take the chances. I met my wife on a dance floor. I don't move away from the ball at the goaline. I let myself become fully immersed in the moments even at the table. Maybe not in every game but I embrace it when it is there.
 
 I don't regret the poor dialogue, trips and spills. But I do regret not joining that Forest of Doors LARP in college. I regret not getting this much out of games. 
+
+#rpgaday2020
