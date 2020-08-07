@@ -2,7 +2,7 @@
 
 I am going to talk about misconception and regret. 
 
-The misconception: In my younger days. I was possessed of the a classic form of gamer snobbery best expressed by a quote from [Gamers 4: Hands of Fate](https://youtu.be/mFAX-_CZ2bM?list=PLC94D9A19FF391865&t=487):
+The misconception: In my younger days. I was possessed of the a classic form of gamer snobbery best expressed by a quote from [Gamers 3: Hands of Fate](https://youtu.be/mFAX-_CZ2bM?list=PLC94D9A19FF391865&t=487):
 
 *"Furries are people that LARPers make fun of, and LARPers are people that gamers make fun of."*
 
