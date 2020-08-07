@@ -12,8 +12,8 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Change](02-change-DO.md)
 * [Thread](03-thread-DO.md)   
 * [Vision](04-vision-DO.md)
-* [Tribute](04-tribute-DO.md)
-* Forest
+* [Tribute](05-tribute-DO.md)
+* [Forest](06-forest-DO.md)
 * Couple
 * Shade
 * Light
