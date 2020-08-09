@@ -15,7 +15,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Tribute](05-tribute-DO.md)
 * [Forest](06-forest-DO.md)
 * [Couple](07-couple-DO.md)
-* Shade
+* [Shade](08-shade-DO.md)
 * Light
 * Want
 * Stack
