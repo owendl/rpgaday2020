@@ -19,14 +19,14 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Light](09-light-DO.md)
 * [Want](10-want-DO.md)
 * [Stack](11-stack-DO.md)
-* Message
+* [Message](12-message-DO.md)
 * Rest
 * Banner
 * Frame
 * [Dramatic](16-dramatic-DO.md)
 * [Comfort](17-comfort-DO.md)   
 * [Meet](18-meet-DO.md)
-* Tower
+* [Tower](19-tower-DO.md)
 * Investigate    
 * Push    
 * Rare
