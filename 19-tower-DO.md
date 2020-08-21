@@ -11,3 +11,5 @@ Beyond that there isn't any real requirement. While the classic resolution mecha
 Yes, that is a Jenga tower in the middle of the table. This is a horror-themed roleplaying game called Dread. When a player attempts an action narratively dangerous, the Gamemaster declares a number of bricks and tells you to pull and place that many. There are probably some more rules than that but I have seen the book and it ain't that long. If the tower falls...you die. Last player left alive wins. Also, if you bump the table and knock the tower you die as well so over the course of the game more and more of the players tend to lean back from the table. 
 
 No math, no character sheets beyond what you need to keep track of who you are and everyone already knows how to play Jenga (or can learn in about 20 seconds). What a lovely way to play pretend.
+
+#rpgaday2020

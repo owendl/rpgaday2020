@@ -12,3 +12,5 @@ Maybe this seems counterintuitive, but let me explain some of the advantages:
 Those with a little bit of theatre background will recognize these as just variations on the classic improv storytelling training. And the reason is that a roleplaying *is improvised storytelling*, just with dice to decide certain story beats.
 
 An excellent reference for concepts on this is _Play Unsafe_, by Graham Walmsley, available for purchase in various corners of the internet.
+
+#rpgaday2020

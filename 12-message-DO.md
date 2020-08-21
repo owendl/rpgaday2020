@@ -9,3 +9,5 @@ My philosophy on games is one that tries to balance what it true for my characte
 Maybe this is a philosophical thing. To quote Shepherd Book when was asked why he didn't care about the destination, "Because the journey is the worthier thing." I would rather play well and lose than cheat and win.
 
 And secret messages do allow for dramatic reveals at opportune moments. And who doesn't love a surprise twist ending.
+
+#rpgaday2020

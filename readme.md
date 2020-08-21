@@ -27,7 +27,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Comfort](17-comfort-DO.md)   
 * [Meet](18-meet-DO.md)
 * [Tower](19-tower-DO.md)
-* Investigate    
+* [Investigate](20-investigate-DO.md)    
 * Push    
 * Rare
 * Edge

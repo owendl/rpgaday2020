@@ -6,4 +6,4 @@ Maybe I haven't felt a need to get back at the world but I haven't ever felt a n
 
 I understand that the #rpgaday prompts are meant to be positive but with a prompt like shade my thoughts tend to darken.
 
-#rpgaday
+#rpgaday2020

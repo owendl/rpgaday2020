@@ -7,3 +7,5 @@ Paraphrasing because I couldn't find the clip: *"That is the reason that comic s
 After going to more than a few gaming conventions in the past few years, it does look to me like the hobby is aging. If we don't work to make our games more inviting and diverse (pick any dimension, I ain't picky) the the hobby will stay in a dark little corner away from the light.
 
 I do think there are groups that are working towards this end, Indie Games Explosion being at the forefront in my mind but we all need to do more to grow the hobby.
+
+#rpgaday2020

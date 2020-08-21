@@ -9,3 +9,5 @@ It can work though. When I was little, my dad and my thing was comic books. He h
 (Sidebar: My mother was not a big fan of comic books, I think she saw them as too little return on entertainment/dollar. However, as she has since told me, getting me to read anything was like pulling teeth and at least comic books had some words in them so she was willing to indulge the hobby.)
 
 I am not sure I can rely on another zeitgeist to help me out but my experience does provide a case study for possible options: keep the hobby around but not necessarily omnipresent, freely provide materials with no expectation of returns, make sure the partner (is at least partially) onboard.
+
+#rpgaday2020

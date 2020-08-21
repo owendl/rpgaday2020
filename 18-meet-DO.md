@@ -9,3 +9,5 @@ I would count myself amongst those with a tricky time navigating social situatio
 Now going back to that Gygax quote, roleplaying games provide a framework to mneet new people in a controlled and (somewhat) predictable manner. The game's rules provide structure and it's setting provides the tone. The social contract of the table is out in the open and easy for everyone to subscribe. 
 
 A social game for non-social people. Oxymoron? 
+
+#rpgaday2020

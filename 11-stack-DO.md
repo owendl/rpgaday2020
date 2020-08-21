@@ -23,3 +23,5 @@ Here is the pocket notebook of game notes I used to simulate the photographic me
 This was a character sheet from a one-shot at GenCon 2014. The game is based on a podcast/stage show The Thrilling Adventure Hour. (Sidebar: You should listen to it. Get on the patreon to access the back catalog. You will thank me.) The players were all super fans, including the designer that ran the session. The game has never been released so I consider this kind of collector's item (even though I know it isn't).
 
 ...the walk could go on but it could take a while. Suffice to say the stack will continue to grow, a physical repository of memories of joyful games.
+
+#rpgaday2020
