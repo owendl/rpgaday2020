@@ -29,7 +29,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Tower](19-tower-DO.md)
 * Investigate 
 * [Push](21-push-DO.md)
-* Rare
+* [Rare](22-rare-dO.md)
 * Edge
 * Humour
 * Lever
