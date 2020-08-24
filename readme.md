@@ -29,9 +29,9 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Tower](19-tower-DO.md)
 * Investigate 
 * [Push](21-push-DO.md)
-* [Rare](22-rare-dO.md)
-* Edge
-* Humour
+* [Rare](22-rare-DO.md)
+* [Edge](23-edge-DO.md)
+* [Humour](24-humor-DO.md)
 * Lever
 * Strange
 * Favour
