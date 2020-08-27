@@ -32,8 +32,8 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Rare](22-rare-DO.md)
 * [Edge](23-edge-DO.md)
 * [Humour](24-humor-DO.md)
-* Lever
-* Strange
+* [Lever](25-lever-DO.md)
+* [Strange](26-strange-DO.md)
 * Favour
 * Close
 * Ride
