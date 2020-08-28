@@ -1,4 +1,4 @@
-## rpgaday20202
+## rpgaday2020
 
 A small repository to hold (for now) my responses to the prompts for #rpgaday2020
 
@@ -34,7 +34,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Humour](24-humor-DO.md)
 * [Lever](25-lever-DO.md)
 * [Strange](26-strange-DO.md)
-* Favour
+* [Favour](27-favor-DO.md)
 * Close
 * Ride
 * Portal
