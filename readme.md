@@ -36,6 +36,6 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Strange](26-strange-DO.md)
 * [Favour](27-favor-DO.md)
 * Close
-* Ride
+* [Ride](27-favor-DO.md)
 * Portal
 * Experience
