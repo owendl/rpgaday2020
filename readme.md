@@ -30,7 +30,7 @@ More details can be found here: https://www.autocratik.com/2020/07/exploring-rpg
 * [Investigate ](20-investigate-DO.md)
 * [Push](21-push-DO.md)
 * [Rare](22-rare-DO.md)
-* Edge
+* [Edge](23-edge-DO.md)
 * [Humour](24-humor-DO.md)
 * [Lever](25-lever-DO.md)
 * [Strange](26-strange-DO.md)
